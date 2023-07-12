@@ -6,4 +6,3 @@
 - 🤔 I'm an indie hacker at AI in my free time
 - 🐦 You can follow me on Twitter [@_fabdelgado](https://twitter.com/_fabdelgado)
 - 👨🏼‍💼 Let's connect through LinkedIn [Linkedin](https://www.linkedin.com/in/fabdelgado/)
-- 📫 How to reach me fabian@bullquine.com
