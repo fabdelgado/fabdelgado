@@ -1,7 +1,7 @@
-👋 Hi, I’m Fabián, welcome to my GitHub profile
+👋 Hi, I’m Fabián. Welcome to my GitHub profile!
 
-- 🔭 I'm Computer Engineer, currently CTO & CoFounder at [DobleD](https://dobled.net)
-- 🌱 I'm learning and working with Golang right now
-- ⌛ Previously, I worked on PHP and Drupal primarily for more than 10 years
-- 🤔 I'm an indie hacker at AI in my free time
-- 👨🏼‍💼 Let's connect through LinkedIn [Linkedin](https://www.linkedin.com/in/fabdelgado/)
+🔭 I'm a Computer Engineer, currently CTO & Co-Founder at DobleD.
+🌱 I'm currently working with Golang.
+⌛ Previously, I worked primarily with PHP and Drupal for over 10 years.
+🤔 In my free time, I'm an indie hacker focusing on AI.
+👨🏼‍💼 Let's connect on LinkedIn.
